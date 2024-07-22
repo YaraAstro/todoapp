@@ -1,5 +1,11 @@
 # To-Do App in Flutter with Hive
 
+<div>
+    <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"></a>
+    <a href="https://docs.hivedb.dev/#/"><img src="https://img.shields.io/badge/-Hive-orange?style=for-the-badge&logo=apache-hive&logoColor=white" alt="hive-db"></a>
+    <a href="https://dart.dev/"><img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart"></a>
+</div>
+
 ## Inspired By : 
 
 ##### 📱 TO DO App • Flutter Tutorial ♥ Hive Local Storage *by* **Mitch  Koko**
